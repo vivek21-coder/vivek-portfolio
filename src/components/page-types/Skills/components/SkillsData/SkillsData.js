@@ -7,7 +7,10 @@ const SkillsData = () => (
       <li className="skills-page-single-skill" style={{ fontSize: 34 }}>Javascript</li>
       <li className="skills-page-single-skill" style={{ fontSize: 34 }}>React.js</li>
       <li className="skills-page-single-skill" style={{ fontSize: 34 }}>React Native</li>
-      <li className="skills-page-single-skill" style={{ fontSize: 34 }}>Web Development</li>
+      <li className="skills-page-single-skill" style={{ fontSize: 34 }}>Data Structures</li>
+      <li className="skills-page-single-skill" style={{ fontSize: 34 }}>Algorithms</li>
+      <li className="skills-page-single-skill" style={{ fontSize: 34 }}>HTML</li>
+      <li className="skills-page-single-skill" style={{ fontSize: 34 }}>CSS</li>
     </ul>
   </div>
 );
