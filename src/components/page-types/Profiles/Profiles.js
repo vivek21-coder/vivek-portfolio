@@ -84,13 +84,11 @@ const Profiles = () => (
           }}
         />
         <div className="profile-page-single-profile-description">
-          <div className="profile-page-single-profile-description-title">CodeChef</div>
+          <div className="profile-page-single-profile-description-title">Leetcode</div>
           <div className="profile-page-single-profile-description-subtitle-1">
             vivek1401
           </div>
-          <div className="profile-page-single-profile-description-subtitle-2">
-            max: 2102 (5 star)
-          </div>
+          <div className="profile-page-single-profile-description-subtitle-2" />
         </div>
       </a>
     </div>
