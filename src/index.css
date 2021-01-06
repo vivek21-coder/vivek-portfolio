@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow: hidden;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,31 @@
+.navigation_items_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.navigation_item {
+    all: unset;
+
+    color: #fff;
+
+    display: flex;
+    padding: 12px 0 12px 0;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 14px;
+
+    transition: 300ms all;
+}
+
+.navigation_item:hover {
+    filter: brightness(80%);
+}
+
+.navigation_item_selected {
+    filter: brightness(60%);
+}
